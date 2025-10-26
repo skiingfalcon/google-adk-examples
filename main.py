@@ -1,14 +1,14 @@
 """
-ADK Bootcamp Python Project
-Main entry point for the Google Agent Development Kit bootcamp
+Google ADK Samples
+Main entry point for the Google Agent Development Kit samples collection
 """
 
 from agents.my_first_agent import root_agent
 
 def main():
     """Entry point of the application."""
-    print("ADK Bootcamp Python Project")
-    print("This project contains examples and agents for the Google ADK bootcamp")
+    print("Google ADK Samples")
+    print("This project contains comprehensive examples and agents for the Google ADK")
     print("To run an agent, use: adk web")
     print("Make sure to set up your .env file with GEMINI_API_KEY first!")
 

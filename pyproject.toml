@@ -1,7 +1,7 @@
 [project]
-name = "adk-bootcamp-python"
+name = "google-adk-samples"
 version = "0.1.0"
-description = "Add your description here"
+description = "Comprehensive collection of Google Agent Development Kit examples and agent patterns"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
